@@ -1,5 +1,3 @@
-# Gitの勉強i
-# git-study
 # Git の勉強
 
 - git add コマンドで、リポジトリに変更情報を追加する
